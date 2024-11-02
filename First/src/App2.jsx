@@ -6,6 +6,7 @@ function App2()
 
     return(
     <>
+    <h1>modification</h1>
     <h1>This is App2</h1>
     <h1 style = {{color:'green'}}>Number Of Apples : {count}</h1>
     {count === 0 ?(

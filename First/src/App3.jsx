@@ -6,6 +6,7 @@ function App3()
     
     return(
         <>
+        <h1>modification</h1>
         <h1>This is App3</h1>
         <h1>Dhoni Score : {score}</h1>
         <button onClick = {()=>setscore(score+1)}>+1</button>
