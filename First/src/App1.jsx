@@ -33,6 +33,7 @@ function App1()
  
    return(
      <>
+     <h1>this is for pull </h1>
      <h1>This is App1</h1>
      <h1>Original Price : {originalPrice}</h1>
      <h1>Final price : {originalPrice-price}</h1>
